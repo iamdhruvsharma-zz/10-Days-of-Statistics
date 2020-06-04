@@ -1,4 +1,4 @@
 # 10 Days of Statistics using C++
 
-Day	0	- Mean, Median, and Mode	
-Day 0 - Weighted Mean	
+1. Day 0	- Mean, Median, and Mode	
+2. Day 0 - Weighted Mean	
