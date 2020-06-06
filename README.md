@@ -7,3 +7,4 @@
 | 1             | Quartiles              |
 | 1             | Interquartile Range    |
 | 1             | Standard Deviation     |
+
