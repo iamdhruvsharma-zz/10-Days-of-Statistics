@@ -4,6 +4,6 @@
 
 TIPS: 
 
-1. Define sample space.
-2. Select those events that statisfy the condition(s).
+1. Define the sample space.
+2. Select those events that satisfy the condition(s).
 3. Then apply, total favourable events / total events in the sample space.
