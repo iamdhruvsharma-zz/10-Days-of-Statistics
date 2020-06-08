@@ -1,7 +1,7 @@
 <B> Statement </B>: In a single toss of <B> 2 </B> fair (evenly-weighted) six-sided dice, 
 find the probability that the values rolled by each die will be different and the two dice have a sum of <B> 6 </B>.
 
-<B>ANS: 5 / 6 </B>
+<B>ANS: 1 / 9 </B>
 
 TIPS: 
 
