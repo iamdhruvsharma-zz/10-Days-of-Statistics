@@ -1,5 +1,11 @@
-<B> Statement </B>: In a single toss of <B> 2 </B> fair (evenly-weighted) six-sided dice, 
-find the probability that the values rolled by each die will be different and the two dice have a sum of <B> 6 </B>.
+<B> Statement </B>:There are <B> 3 </B> urns labeled <B> X </B>, <B> Y </B>, and <B> Z </B>.
+
+
+Urn <B> X </B> contains <B> 4 </B> red balls and <B> 3 </B> black balls.
+Urn <B> Y </B> contains <B> 5 </B> red balls and <B> 4 </B> black balls.
+Urn <B> Z </B> contains <B> 4 </B> red balls and <B> 4 </B> black balls.
+
+One ball is drawn from each of the  urns. What is the probability that, of the  balls drawn,  are red and  is black?
 
 <B>ANS: 1 / 9 </B>
 
