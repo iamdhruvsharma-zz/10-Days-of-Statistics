@@ -2,5 +2,5 @@
 
 <B>ANS: 5 / 6 </B>
 
-<ol> TIPS: </ol>
-<li>D</li>
+<ol> TIPS: 
+  <li>D</li>
