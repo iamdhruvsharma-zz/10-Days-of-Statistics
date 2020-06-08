@@ -2,8 +2,7 @@
 
 <li> Urn <B> X </B> contains <B> 4 </B> red balls and <B> 3 </B> black balls. </li>
 <li> Urn <B> Y </B> contains <B> 5 </B> red balls and <B> 4 </B> black balls. </li>
-<li> Urn <B> Z </B> contains <B> 4 </B> red balls and <B> 4 </B> black balls. </li>
-
+<li> Urn <B> Z </B> contains <B> 4 </B> red balls and <B> 4 </B> black balls. </li> </br>
 One ball is drawn from each of the  urns. What is the probability that, of the  balls drawn,  are red and  is black?
 
 <B>ANS: 1 / 9 </B>
