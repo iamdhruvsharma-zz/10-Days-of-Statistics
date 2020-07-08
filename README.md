@@ -11,4 +11,4 @@
 | 2             | More Dice                      |
 | 2             | Compound Event Probability     |
 
-More will be added!
+More will be added very soon!
