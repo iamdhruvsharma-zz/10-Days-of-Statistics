@@ -10,3 +10,5 @@
 | 2             | Basic Probability      |
 | 2             | More Dice                      |
 | 2             | Compound Event Probability     |
+
+More will be added!
